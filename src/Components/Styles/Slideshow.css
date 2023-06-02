@@ -1,0 +1,27 @@
+.slideshow{
+    position:relative;
+    top:-546px;
+    width:700px;
+    left: 290px
+}
+.img1{
+    height: 400px;
+}
+.img3{
+    height: 400px;
+
+}
+.slideshow_items{
+    position:relative;
+    width:700px;
+    top:-450px;
+    left: 290px
+}
+
+#details{
+    font-size: 20px;
+}
+.checked{
+    color: orange;
+
+}
